@@ -4,7 +4,7 @@ import numpy as np
 import pydeck as pdk
 import plotly.express as px
 
-Data_URL = ("D:\webapp\Motor_Vehicle_Collisions_-_Crashes.csv")
+Data_URL = ("motor_data.csv")
 
 st.title("Motor Vehicle Collisions in New York City")
 st.markdown("This application is a streamlit dashboard that can be used to analyze motor vehicle collisions in NYC")
